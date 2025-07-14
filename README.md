@@ -10,7 +10,7 @@ DOMAIN : SOFTWARE DEVELOPMENT
 
 DURATION : 6 WEEKS
 
-MENTOR : NEELA SANTOSH
+MENTOR : NEELA SANTHOSH
 
 DESCRIPTION : This is a static developer portfolio website designed to showcase a developer's profile, skills, and projects in a clean and responsive layout. It includes sections such as About Me, Skills, Projects, and Contact, allowing visitors to easily learn more about the developer and explore their work. The aim of this project is to provide a simple yet professional personal website to highlight technical abilities and project experience.
 
